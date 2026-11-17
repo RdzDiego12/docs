@@ -3,11 +3,11 @@
   "theme": "mint",
   "name": "União Paulista",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#1A4FD6",
+    "light": "#3B7BFF",
+    "dark": "#0D2F8C"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/images/logo-uniao-paulista.png",
   "navigation": {
     "pages": [
       {
@@ -43,45 +43,12 @@
           "roubos",
           "blindados"
         ]
-      },
-      {
-        "group": "Getting Started",
-        "pages": [
-          "quickstart"
-        ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    ]
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
-  "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:support@mintlify.com"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://app.mintlify.com"
-    }
+    "light": "/images/logo-uniao-paulista.png",
+    "dark": "/images/logo-uniao-paulista.png"
   },
   "contextual": {
     "options": [
@@ -97,9 +64,8 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "discord": "https://discord.gg/Mrk2jFbuz"
     }
-  }
+  },
+  "description": "Nesse documento você pode acompanhar nossas regras e diretrizes oficiais."
 }
